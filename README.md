@@ -7,4 +7,6 @@
 
 ## Demo
 - 中翻英：https://lin.ee/8lCY8oc
+  - ![中翻英](static/ai_tw2en.png)
 - 英翻中：https://lin.ee/PVCMIZ2
+  - ![中翻英](static/ai_en2tw.png)
